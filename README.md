@@ -1,4 +1,6 @@
-![master head](https://upload.wikimedia.org/wikipedia/commons/2/2a/Pi-unrolled-720.gif)
+<div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Pi-unrolled-720.gif" alt="master head">
+</div>
 
 <h1 align="center">Hi 👋, I'm Muhammad Tayyab</h1>
 <h3 align="center">A passionate Full Stack Developer Learning Django</h3>
