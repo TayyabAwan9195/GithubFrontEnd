@@ -1,4 +1,4 @@
-![master head](https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif)
+![master head](https://static.wixstatic.com/media/a51371_dbf473179a1d42bdbf8b37058ec90d39~mv2.gif)
 
 <h1 align="center">Hi 👋, I'm Muhammad Tayyab</h1>
 <h3 align="center">A passionate Full Stack Developer Learning Django</h3>
