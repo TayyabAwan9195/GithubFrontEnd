@@ -1,4 +1,4 @@
-![Master head]([https://i.pinimg.com/originals/e0/58/ee/e058eecc0652ff38a4e7062cfcf08c9d.gif](https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif))
+![master head](https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif)
 
 <h1 align="center">Hi 👋, I'm Muhammad Tayyab</h1>
 <h3 align="center">A passionate Full Stack Developer Learning Django</h3>
@@ -27,5 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayyabawan9195&show_icons=true&locale=en" alt="tayyabawan9195" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tayyabawan9195&" alt="tayyabawan9195" /></p>
-
--->
