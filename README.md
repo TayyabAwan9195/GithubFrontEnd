@@ -1,4 +1,4 @@
-![master head](https://lh5.googleusercontent.com/proxy/GTrEvZ-FPNxNT4VhFi71Q8dtMrXfoLAAljnx1omiRSZrvfC6fy3qAn2wObZLHycqrp2QGmERZ4slK2ep7NlIwhOtEcQXK_3ZnUJkWgAqsFmXwDxmJu3YO7MRJzWnjwn_34UACzHWFi53Ey-_XXkz_Sc)
+![master head](https://upload.wikimedia.org/wikipedia/commons/2/2a/Pi-unrolled-720.gif)
 
 <h1 align="center">Hi 👋, I'm Muhammad Tayyab</h1>
 <h3 align="center">A passionate Full Stack Developer Learning Django</h3>
