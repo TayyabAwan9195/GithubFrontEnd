@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Django,Python**
 
-- 💬 Ask me about **Flutter,Django,**
+- 💬 Ask me about **Flutter,Django,REST Framework**
 
 - 📫 How to reach me **tayyab.fullstackdev@gmail.com**
 
